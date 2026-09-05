@@ -1,0 +1,10 @@
+[
+ {"id":"shu","name":"蜀汉","mark":"蜀","tag":"蜀汉","thresholds":[2],"description":"蜀汉英雄技能伤害 +35%","effects":[{"skill":0.35}]},
+ {"id":"han","name":"汉廷","mark":"汉","tag":"汉廷","thresholds":[2,3],"description":"全军远程伤害 +12/25%；波次灵石 +4/8","effects":[{"ranged":0.12,"income":4},{"ranged":0.25,"income":8}]},
+ {"id":"sky","name":"天庭","mark":"天","tag":"天庭","thresholds":[2,3],"description":"天庭英雄技能冷却缩短 15/30%","effects":[{"cooldown":0.15},{"cooldown":0.3}]},
+ {"id":"warrior","name":"武将","mark":"武","tag":"武将","thresholds":[2,4],"description":"武将生命与近战伤害 +20/40%","effects":[{"health":0.2,"melee":0.2},{"health":0.4,"melee":0.4}]},
+ {"id":"sage","name":"谋士","mark":"谋","tag":"谋士","thresholds":[2,3],"description":"全军射程 +10/18%；控制时长 +20/40%","effects":[{"range":0.1,"control":0.2},{"range":0.18,"control":0.4}]},
+ {"id":"vanguard","name":"先锋","mark":"锋","tag":"先锋","thresholds":[2,3],"description":"先锋英雄攻击速度 +20/40%","effects":[{"speed":0.2},{"speed":0.4}]},
+ {"id":"craft","name":"百工","mark":"工","members":["luban","zhuge"],"thresholds":[2],"description":"鲁班与诸葛亮：鲁班攻击与技能伤害 +50%","effects":[{"machine":0.5}]},
+ {"id":"trinity","name":"三界同辉","mark":"辉","members":["zhuge","wukong","change"],"thresholds":[3],"description":"诸葛亮、孙悟空、嫦娥：全军伤害 +20%，攻速 +15%","effects":[{"all_damage":0.2,"all_speed":0.15}]}
+]

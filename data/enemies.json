@@ -1,0 +1,8 @@
+[
+ {"id":"grunt","name":"山魈","hp":88,"speed":38,"armor":0,"bounty":1,"leak":1,"color":"a2b99b"},
+ {"id":"runner","name":"纸人","hp":53,"speed":66,"armor":0,"bounty":1,"leak":1,"color":"e3d7b4"},
+ {"id":"armor","name":"石甲卫","hp":185,"speed":30,"armor":0.38,"bounty":2,"leak":2,"color":"829ca5"},
+ {"id":"flyer","name":"火鸦","hp":100,"speed":48,"armor":0,"bounty":2,"leak":2,"color":"e89573"},
+ {"id":"captain","name":"阴兵队长","hp":285,"speed":33,"armor":0.18,"bounty":3,"leak":3,"color":"b597c9"},
+ {"id":"boss","name":"饕餮残影","hp":3600,"speed":20,"armor":0.2,"bounty":30,"leak":30,"color":"e3b46a"}
+]
