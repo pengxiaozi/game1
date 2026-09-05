@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 九州英灵录
 
 Godot 4.7.2 单机试玩版：2D 国风英灵塔防。
@@ -54,3 +55,7 @@ Godot 4.7.2 单机试玩版：2D 国风英灵塔防。
 ```powershell
 & 'H:\godot\Godot_v4.7.2-stable_win64_console.exe' --headless --path 'H:\games' --script 'res://tests/smoke_test.gd'
 ```
+=======
+# game1
+godot 塔防游戏
+>>>>>>> 8172a26e534a0d3a4f5d47c3d73a7b4ae84ed3e5
